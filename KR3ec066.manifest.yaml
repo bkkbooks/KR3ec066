@@ -1,0 +1,7577 @@
+canonical_identifier: bkk:krp/KR3ec066/v1
+canonical_location: https://kanripo.org/bkk/KR3ec066/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 本經疏證
+  identifiers:
+    krp: KR3ec066
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec066.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ec066_000.yaml, hash: 'sha256:77279025d75ab29e4cb96978c8687cb6a4cf57944812eebf82c67d19bcebf415'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ec066_000.markers.yaml, hash: 'sha256:a8c458584fc56b8eb177f42e8710936ab43328c551fcf3a138832c3bafff0dc6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1442.h2s1
+    span:
+    - front
+    - 0
+    - 2
+  label: 序例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 662
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 662
+    - 662
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d10.h1s1
+    span:
+    - body
+    - 662
+    - 668
+  label: 鄒潤安先生傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 668
+    - 668
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 668
+    - 668
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d20.h2s1
+    span:
+    - body
+    - 668
+    - 670
+  label: 例言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 670
+    - 670
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 670
+    - 673
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 673
+    - 676
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 676
+    - 679
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 679
+    - 682
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 682
+    - 685
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 685
+    - 688
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 688
+    - 691
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 691
+    - 694
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 694
+    - 697
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 697
+    - 700
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 700
+    - 704
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 704
+    - 708
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 708
+    - 1166
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 1166
+    - 2479
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2479
+    - 2479
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2479
+    - 2488
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 2488
+    - 3424
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 3424
+    - 4167
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4167
+    - 4995
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 4995
+    - 6490
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 6490
+    - 8014
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 8014
+    - 9048
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9048
+    - 9405
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 9405
+    - 10311
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10311
+    - 10789
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 10789
+    - 14536
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 14536
+    - 16245
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16245
+    - 16245
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16245
+    - 16250
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 16250
+    - 19237
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 19237
+    - 21013
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 21013
+    - 24603
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 24603
+    - 25040
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 25040
+    - 27771
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 27771
+    - 28978
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 28978
+    - 30437
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30437
+    - 30437
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30437
+    - 30442
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 30442
+    - 32100
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 32100
+    - 34608
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 34608
+    - 36032
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 36032
+    - 38912
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 38912
+    - 40750
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 40750
+    - 44180
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 44180
+    - 46671
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 46671
+    - 46671
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 46671
+    - 46679
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 46679
+    - 47154
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 47154
+    - 51139
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 51139
+    - 51611
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 51611
+    - 51976
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 51976
+    - 52292
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 52292
+    - 52589
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 52589
+    - 55543
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 55543
+    - 56675
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 56675
+    - 60285
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 60285
+    - 61615
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 61615
+    - 62781
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 62781
+    - 63485
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 63485
+    - 63485
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 63485
+    - 63509
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 63509
+    - 63941
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 63941
+    - 64147
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 64147
+    - 64454
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 64454
+    - 65015
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 65015
+    - 66699
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 66699
+    - 67801
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 67801
+    - 69191
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 69191
+    - 71593
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 71593
+    - 72036
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 72036
+    - 72854
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 72854
+    - 75766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 75766
+    - 77056
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 77056
+    - 78908
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 78908
+    - 79325
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 79325
+    - 80442
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 80442
+    - 80442
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 80442
+    - 80450
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 80450
+    - 80807
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 80807
+    - 83139
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 83139
+    - 83562
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 83562
+    - 89579
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 89579
+    - 91895
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 91895
+    - 95118
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 95118
+    - 95525
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 95525
+    - 97817
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 97817
+    - 97817
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 97817
+    - 97823
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 97823
+    - 101847
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 101847
+    - 103133
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 103133
+    - 105819
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 105819
+    - 106465
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 106465
+    - 107826
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 107826
+    - 109121
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 109121
+    - 110409
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 110409
+    - 112927
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 112927
+    - 113643
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 113643
+    - 114375
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 114375
+    - 114728
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 114728
+    - 115335
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 115335
+    - 116323
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 116323
+    - 116830
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 116830
+    - 117321
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 117321
+    - 117321
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 117321
+    - 117330
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 117330
+    - 118424
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 118424
+    - 119599
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 119599
+    - 121114
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 121114
+    - 121348
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 121348
+    - 123322
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 123322
+    - 123778
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 123778
+    - 124379
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 124379
+    - 125469
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 125469
+    - 126647
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 126647
+    - 128852
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 128852
+    - 132331
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 132331
+    - 132766
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 132766
+    - 133572
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 133572
+    - 134011
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 134011
+    - 134946
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 134946
+    - 134946
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 134946
+    - 134964
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 134964
+    - 135224
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 135224
+    - 135705
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 135705
+    - 136701
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 136701
+    - 137432
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 137432
+    - 137940
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 137940
+    - 137965
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 137965
+    - 138464
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 138464
+    - 140150
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 140150
+    - 140613
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 140613
+    - 141496
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 141496
+    - 142284
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 142284
+    - 143129
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 143129
+    - 145672
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 145672
+    - 147808
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 147808
+    - 149095
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 149095
+    - 150265
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 150265
+    - 150969
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 150969
+    - 150969
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 150969
+    - 150980
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 150980
+    - 151550
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 151550
+    - 152022
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 152022
+    - 152455
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 152455
+    - 152907
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 152907
+    - 153850
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 153850
+    - 154123
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 154123
+    - 154535
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 154535
+    - 161112
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 161112
+    - 165553
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 165553
+    - 165553
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 165553
+    - 165559
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 165559
+    - 170149
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 170149
+    - 170859
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 170859
+    - 172149
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 172149
+    - 172581
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 172581
+    - 173254
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 173254
+    - 174535
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 174535
+    - 175723
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 175723
+    - 176078
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 176078
+    - 176793
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 176793
+    - 176991
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 176991
+    - 178309
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 178309
+    - 178649
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 178649
+    - 179172
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 179172
+    - 180157
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 180157
+    - 180913
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 180913
+    - 181002
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 181002
+    - 181603
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 181603
+    - 181660
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 181660
+    - 182381
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 182381
+    - 182381
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 182381
+    - 182399
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 182399
+    - 183210
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 183210
+    - 185390
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 185390
+    - 186212
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 186212
+    - 186738
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 186738
+    - 186918
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 186918
+    - 188613
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 188613
+    - 189192
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 189192
+    - 189852
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 189852
+    - 190414
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 190414
+    - 190721
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 190721
+    - 191214
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 191214
+    - 191328
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 191328
+    - 194320
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 194320
+    - 194845
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 194845
+    - 195302
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195302
+    - 195302
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195302
+    - 195305
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195305
+    - 195308
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195308
+    - 195311
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195311
+    - 195314
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195314
+    - 195317
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195317
+    - 195320
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195320
+    - 195821
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195821
+    - 195821
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195821
+    - 195830
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 195830
+    - 196728
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 196728
+    - 197227
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 197227
+    - 197933
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 197933
+    - 198461
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 198461
+    - 199309
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 199309
+    - 199994
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 199994
+    - 200732
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 200732
+    - 201249
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 201249
+    - 202217
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 202217
+    - 202918
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 202918
+    - 203433
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 203433
+    - 204068
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 204068
+    - 205077
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 205077
+    - 205366
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 205366
+    - 205744
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 205744
+    - 206299
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 206299
+    - 206774
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 206774
+    - 208190
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 208190
+    - 208190
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 208190
+    - 208199
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 208199
+    - 209264
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 209264
+    - 209844
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 209844
+    - 210336
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 210336
+    - 211134
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 211134
+    - 211767
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 211767
+    - 212456
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 212456
+    - 212958
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 212958
+    - 213442
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 213442
+    - 214557
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 214557
+    - 215186
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 215186
+    - 215622
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 215622
+    - 215999
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 215999
+    - 216387
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 216387
+    - 216949
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 216949
+    - 217393
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 217393
+    - 217958
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 217958
+    - 218538
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 218538
+    - 219130
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 219130
+    - 219597
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 219597
+    - 220106
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 220106
+    - 220106
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 220106
+    - 220126
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 220126
+    - 220630
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 220630
+    - 221115
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 221115
+    - 221808
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 221808
+    - 222237
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 222237
+    - 222738
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 222738
+    - 223176
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 223176
+    - 223608
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 223608
+    - 224100
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 224100
+    - 224589
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 224589
+    - 225101
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 225101
+    - 225413
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 225413
+    - 225474
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 225474
+    - 225678
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 225678
+    - 225921
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 225921
+    - 227205
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 227205
+    - 227647
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 227647
+    - 228452
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 228452
+    - 229342
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 229342
+    - 230100
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 230100
+    - 230537
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 230537
+    - 230537
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 230537
+    - 230547
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 230547
+    - 231606
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 231606
+    - 232056
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 232056
+    - 232420
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 232420
+    - 232852
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 232852
+    - 233538
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 233538
+    - 234152
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 234152
+    - 234798
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 234798
+    - 235362
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 235362
+    - 236297
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 236297
+    - 237001
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 237001
+    - 237870
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 237870
+    - 238329
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 238329
+    - 239145
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 239145
+    - 239493
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 239493
+    - 239982
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 239982
+    - 240440
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 240440
+    - 241187
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 241187
+    - 241658
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 241658
+    - 242044
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 242044
+    - 242290
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 242290
+    - 242936
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 242936
+    - 243617
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 243617
+    - 244138
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 244138
+    - 244807
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 244807
+    - 245343
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 245343
+    - 245890
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 245890
+    - 246244
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 246244
+    - 246244
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 246244
+    - 246264
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 246264
+    - 246871
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 246871
+    - 247384
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 247384
+    - 247823
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 247823
+    - 248380
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 248380
+    - 248782
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 248782
+    - 249262
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 249262
+    - 249872
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 249872
+    - 251783
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 251783
+    - 251995
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 251995
+    - 252507
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 252507
+    - 252910
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 252910
+    - 253464
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 253464
+    - 254315
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 254315
+    - 255088
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 255088
+    - 255529
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 255529
+    - 255964
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 255964
+    - 256676
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 256676
+    - 257084
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 257084
+    - 257541
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 257541
+    - 257914
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 257914
+    - 258539
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 258539
+    - 259279
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 259279
+    - 260076
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 260076
+    - 260531
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 260531
+    - 260531
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 260531
+    - 260549
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 260549
+    - 261405
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 261405
+    - 261810
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 261810
+    - 262335
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 262335
+    - 262800
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 262800
+    - 263300
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 263300
+    - 263810
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 263810
+    - 264115
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 264115
+    - 264732
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 264732
+    - 265086
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 265086
+    - 265472
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 265472
+    - 265821
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 265821
+    - 265959
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 265959
+    - 266173
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 266173
+    - 266460
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 266460
+    - 266812
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 266812
+    - 267216
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 267216
+    - 267611
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 267611
+    - 268061
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 268061
+    - 268380
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 268380
+    - 268904
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 268904
+    - 268904
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 268904
+    - 269505
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 269505
+    - 269660
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 269660
+    - 269660
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 269660
+    - 270222
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1448.h2s1
+    span:
+    - body
+    - 270222
+    - 270226
+  label: 療風通用
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 270226
+    - 270346
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 270346
+    - 271250
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 271250
+    - 271686
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1456.h2s1
+    span:
+    - body
+    - 271686
+    - 271688
+  label: 風眩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 271688
+    - 271780
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 271780
+    - 271880
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 271880
+    - 272367
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1464.h2s1
+    span:
+    - body
+    - 272367
+    - 272370
+  label: 頭面風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 272370
+    - 272489
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 272489
+    - 272577
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 272577
+    - 273184
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1472.h2s1
+    span:
+    - body
+    - 273184
+    - 273188
+  label: 中風腳弱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 273188
+    - 273363
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 273363
+    - 273449
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 273449
+    - 273983
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1480.h2s1
+    span:
+    - body
+    - 273983
+    - 273987
+  label: 久風溼痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 273987
+    - 274165
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 274165
+    - 274261
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 274261
+    - 274885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1488.h2s1
+    span:
+    - body
+    - 274885
+    - 274889
+  label: 賊風攣痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 274889
+    - 275049
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 275049
+    - 275074
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 275074
+    - 275750
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1496.h2s1
+    span:
+    - body
+    - 275750
+    - 275754
+  label: 暴風瘙癢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 275754
+    - 275866
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 275866
+    - 275948
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 275948
+    - 276426
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1504.h2s1
+    span:
+    - body
+    - 276426
+    - 276428
+  label: 傷寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 276428
+    - 276714
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 276714
+    - 276966
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 276966
+    - 277609
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1512.h2s1
+    span:
+    - body
+    - 277609
+    - 277611
+  label: 大熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 277611
+    - 277788
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 277788
+    - 278154
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 278154
+    - 279285
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1520.h2s1
+    span:
+    - body
+    - 279285
+    - 279287
+  label: 勞復
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 279287
+    - 279320
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 279320
+    - 279380
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 279380
+    - 279672
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1528.h2s1
+    span:
+    - body
+    - 279672
+    - 279674
+  label: 溫瘧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 279674
+    - 279855
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 279855
+    - 280008
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 280008
+    - 281329
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 281329
+    - 281329
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1542.h2s1
+    span:
+    - body
+    - 281329
+    - 281331
+  label: 中惡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 281331
+    - 281480
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 281480
+    - 281588
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 281588
+    - 282032
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1550.h2s1
+    span:
+    - body
+    - 282032
+    - 282034
+  label: 霍亂
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 282034
+    - 282156
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 282156
+    - 282292
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 282292
+    - 282779
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1558.h2s1
+    span:
+    - body
+    - 282779
+    - 282781
+  label: 轉筋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 282781
+    - 282886
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 282886
+    - 283366
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1564.h2s1
+    span:
+    - body
+    - 283366
+    - 283368
+  label: 嘔啘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 283368
+    - 283444
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 283444
+    - 283533
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 283533
+    - 284182
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1572.h2s1
+    span:
+    - body
+    - 284182
+    - 284186
+  label: 大腹水腫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 284186
+    - 284476
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 284476
+    - 284581
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 284581
+    - 286085
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1580.h2s1
+    span:
+    - body
+    - 286085
+    - 286089
+  label: 腸澼下利
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 286089
+    - 286295
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 286295
+    - 286665
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 286665
+    - 288545
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1588.h2s1
+    span:
+    - body
+    - 288545
+    - 288549
+  label: 大便不通
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 288549
+    - 288623
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 288623
+    - 288700
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 288700
+    - 289288
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1596.h2s1
+    span:
+    - body
+    - 289288
+    - 289291
+  label: 小便淋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 289291
+    - 289477
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 289477
+    - 289654
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 289654
+    - 291643
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1604.h2s1
+    span:
+    - body
+    - 291643
+    - 291646
+  label: 小便利
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 291646
+    - 291728
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 291728
+    - 291762
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 291762
+    - 292642
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1612.h2s1
+    span:
+    - body
+    - 292642
+    - 292644
+  label: 溺血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 292644
+    - 292690
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 292690
+    - 292734
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 292734
+    - 293324
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 293324
+    - 293324
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1626.h2s1
+    span:
+    - body
+    - 293324
+    - 293326
+  label: 消渴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 293326
+    - 293559
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 293559
+    - 293646
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 293646
+    - 294948
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1634.h2s1
+    span:
+    - body
+    - 294948
+    - 294950
+  label: 黃疸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 294950
+    - 295054
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 295054
+    - 295071
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 295071
+    - 296933
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1642.h2s1
+    span:
+    - body
+    - 296933
+    - 296937
+  label: 上氣欬嗽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 296937
+    - 297192
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 297192
+    - 297325
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 297325
+    - 298674
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1650.h2s1
+    span:
+    - body
+    - 298674
+    - 298676
+  label: 嘔吐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 298676
+    - 298772
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 298772
+    - 298821
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 298821
+    - 300382
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1658.h2s1
+    span:
+    - body
+    - 300382
+    - 300384
+  label: 痰飲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 300384
+    - 300556
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 300556
+    - 300642
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 300642
+    - 302181
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1666.h2s1
+    span:
+    - body
+    - 302181
+    - 302183
+  label: 宿食
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 302183
+    - 302293
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 302293
+    - 302641
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1672.h2s1
+    span:
+    - body
+    - 302641
+    - 302644
+  label: 腹脹滿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 302644
+    - 302780
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 302780
+    - 302877
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 302877
+    - 303235
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1680.h2s1
+    span:
+    - body
+    - 303235
+    - 303239
+  label: 心腹冷痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 303239
+    - 303388
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 303388
+    - 303515
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 303515
+    - 304984
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1688.h2s1
+    span:
+    - body
+    - 304984
+    - 304986
+  label: 腸鳴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 304986
+    - 305023
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 305023
+    - 305038
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 305038
+    - 305347
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 305347
+    - 305347
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1702.h2s1
+    span:
+    - body
+    - 305347
+    - 305351
+  label: 心下滿急
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 305351
+    - 305433
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 305433
+    - 305480
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 305480
+    - 305938
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1710.h2s1
+    span:
+    - body
+    - 305938
+    - 305940
+  label: 心煩
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 305940
+    - 306106
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 306106
+    - 306331
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 306331
+    - 307414
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1718.h2s1
+    span:
+    - body
+    - 307414
+    - 307418
+  label: 積聚癥瘕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 307418
+    - 307779
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 307779
+    - 307964
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 307964
+    - 309623
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1726.h2s1
+    span:
+    - body
+    - 309623
+    - 309627
+  label: 鬼疰尸疰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 309627
+    - 309966
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 309966
+    - 310092
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 310092
+    - 311630
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1734.h2s1
+    span:
+    - body
+    - 311630
+    - 311632
+  label: 驚邪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 311632
+    - 311917
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 311917
+    - 311936
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 311936
+    - 313035
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1742.h2s1
+    span:
+    - body
+    - 313035
+    - 313037
+  label: 癲癇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 313037
+    - 313269
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 313269
+    - 313456
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 313456
+    - 315735
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1750.h2s1
+    span:
+    - body
+    - 315735
+    - 315738
+  label: 喉痹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 315738
+    - 315865
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 315865
+    - 315915
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 315915
+    - 316547
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1758.h2s1
+    span:
+    - body
+    - 316547
+    - 316549
+  label: 噎病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 316549
+    - 316655
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 316655
+    - 316674
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 316674
+    - 318075
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 318075
+    - 318075
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1772.h2s1
+    span:
+    - body
+    - 318075
+    - 318076
+  label: 鯁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 318076
+    - 318123
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 318123
+    - 318726
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1778.h2s1
+    span:
+    - body
+    - 318726
+    - 318728
+  label: 齒痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 318728
+    - 318909
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 318909
+    - 318959
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 318959
+    - 319401
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1786.h2s1
+    span:
+    - body
+    - 319401
+    - 319403
+  label: 口瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 319403
+    - 319472
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 319472
+    - 319478
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 319478
+    - 320017
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1794.h2s1
+    span:
+    - body
+    - 320017
+    - 320020
+  label: 吐唾血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 320020
+    - 320117
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 320117
+    - 320183
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 320183
+    - 321196
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1802.h2s1
+    span:
+    - body
+    - 321196
+    - 321199
+  label: 鼻衄血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 321199
+    - 321355
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 321355
+    - 321382
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 321382
+    - 322676
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1810.h2s1
+    span:
+    - body
+    - 322676
+    - 322678
+  label: 鼻𪖵
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 322678
+    - 322716
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 322716
+    - 323111
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1816.h2s1
+    span:
+    - body
+    - 323111
+    - 323113
+  label: 耳聾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 323113
+    - 323188
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 323188
+    - 323234
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 323234
+    - 323803
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1824.h2s1
+    span:
+    - body
+    - 323803
+    - 323806
+  label: 鼻息肉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 323806
+    - 323855
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 323855
+    - 323893
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 323893
+    - 324389
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1832.h2s1
+    span:
+    - body
+    - 324389
+    - 324393
+  label: 目赤熱痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 324393
+    - 324573
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 324573
+    - 324649
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 324649
+    - 325252
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1840.h2s1
+    span:
+    - body
+    - 325252
+    - 325255
+  label: 目膚瞖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 325255
+    - 325367
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 325367
+    - 325392
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 325392
+    - 325877
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1849.h2s1
+    span:
+    - body
+    - 325877
+    - 325880
+  label: 聲暗啞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 325880
+    - 325940
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 325940
+    - 325954
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 325954
+    - 326490
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1857.h2s1
+    span:
+    - body
+    - 326490
+    - 326493
+  label: 面皯皰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 326493
+    - 326633
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 326633
+    - 326741
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 326741
+    - 327282
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1865.h2s1
+    span:
+    - body
+    - 327282
+    - 327285
+  label: 髮禿落
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 327285
+    - 327457
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 327457
+    - 328551
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1871.h2s1
+    span:
+    - body
+    - 328551
+    - 328553
+  label: 滅瘢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 328553
+    - 328591
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 328591
+    - 328609
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 328609
+    - 328943
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1879.h2s1
+    span:
+    - body
+    - 328943
+    - 328945
+  label: 金瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 328945
+    - 329047
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 329047
+    - 329173
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 329173
+    - 329881
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 329881
+    - 329881
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1893.h2s1
+    span:
+    - body
+    - 329881
+    - 329883
+  label: 踒折
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 329883
+    - 329947
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 329947
+    - 330017
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 330017
+    - 330403
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1901.h2s1
+    span:
+    - body
+    - 330403
+    - 330405
+  label: 瘀血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 330405
+    - 330596
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 330596
+    - 330785
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 330785
+    - 331770
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1909.h2s1
+    span:
+    - body
+    - 331770
+    - 331772
+  label: 火灼
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 331772
+    - 331850
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 331850
+    - 332300
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1915.h2s1
+    span:
+    - body
+    - 332300
+    - 332302
+  label: 癰疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 332302
+    - 332506
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 332506
+    - 332647
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 332647
+    - 333281
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1923.h2s1
+    span:
+    - body
+    - 333281
+    - 333283
+  label: 惡瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 333283
+    - 333657
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 333657
+    - 333920
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 333920
+    - 334849
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1931.h2s1
+    span:
+    - body
+    - 334849
+    - 334851
+  label: 漆瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 334851
+    - 334934
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 334934
+    - 334989
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 334989
+    - 335478
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1939.h2s1
+    span:
+    - body
+    - 335478
+    - 335480
+  label: 癭瘤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 335480
+    - 335602
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 335602
+    - 335627
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 335627
+    - 336209
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1947.h2s1
+    span:
+    - body
+    - 336209
+    - 336211
+  label: 瘻瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 336211
+    - 336318
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 336318
+    - 336406
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 336406
+    - 337072
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1955.h2s1
+    span:
+    - body
+    - 337072
+    - 337074
+  label: 五痔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 337074
+    - 337120
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 337120
+    - 337297
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 337297
+    - 337806
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1963.h2s1
+    span:
+    - body
+    - 337806
+    - 337808
+  label: 脫肛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 337808
+    - 337866
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 337866
+    - 338306
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1969.h2s1
+    span:
+    - body
+    - 338306
+    - 338307
+  label: 䘌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 338307
+    - 338355
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 338355
+    - 338379
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1975.h2s1
+    span:
+    - body
+    - 338379
+    - 338381
+  label: 蚘蟲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 338381
+    - 338452
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 338452
+    - 338498
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1981.h2s1
+    span:
+    - body
+    - 338498
+    - 338500
+  label: 寸白
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 338500
+    - 338587
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 338587
+    - 338601
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 338601
+    - 339531
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 339531
+    - 339531
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d1995.h2s1
+    span:
+    - body
+    - 339531
+    - 339533
+  label: 虛勞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 339533
+    - 340133
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 340133
+    - 340352
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 340352
+    - 341480
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2003.h2s1
+    span:
+    - body
+    - 341480
+    - 341482
+  label: 陰痿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 341482
+    - 341676
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 341676
+    - 341822
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 341822
+    - 342151
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2011.h2s1
+    span:
+    - body
+    - 342151
+    - 342153
+  label: 陰㿉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 342153
+    - 342224
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 342224
+    - 342279
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 342279
+    - 342723
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2019.h2s1
+    span:
+    - body
+    - 342723
+    - 342725
+  label: 囊溼
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 342725
+    - 342821
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 342821
+    - 342962
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2025.h2s1
+    span:
+    - body
+    - 342962
+    - 342964
+  label: 洩精
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 342964
+    - 343063
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 343063
+    - 343143
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 343143
+    - 343603
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2033.h2s1
+    span:
+    - body
+    - 343603
+    - 343605
+  label: 好眠
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 343605
+    - 343662
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 343662
+    - 343675
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2039.h2s1
+    span:
+    - body
+    - 343675
+    - 343678
+  label: 不得眠
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 343678
+    - 343700
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 343700
+    - 343712
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 343712
+    - 344331
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2047.h2s1
+    span:
+    - body
+    - 344331
+    - 344333
+  label: 腰痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 344333
+    - 344441
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 344441
+    - 344556
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 344556
+    - 345210
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2055.h2s1
+    span:
+    - body
+    - 345210
+    - 345214
+  label: 婦人崩中
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 345214
+    - 345579
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 345579
+    - 345670
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 345670
+    - 346750
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2063.h2s1
+    span:
+    - body
+    - 346750
+    - 346752
+  label: 月閉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 346752
+    - 346941
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 346941
+    - 347090
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 347090
+    - 347560
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2071.h2s1
+    span:
+    - body
+    - 347560
+    - 347562
+  label: 無子
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 347562
+    - 347637
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 347637
+    - 347684
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 347684
+    - 348093
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2079.h2s1
+    span:
+    - body
+    - 348093
+    - 348095
+  label: 安胎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 348095
+    - 348141
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 348141
+    - 348197
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 348197
+    - 348820
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2087.h2s1
+    span:
+    - body
+    - 348820
+    - 348822
+  label: 墮胎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 348822
+    - 348988
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 348988
+    - 349042
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 349042
+    - 349226
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2095.h2s1
+    span:
+    - body
+    - 349226
+    - 349228
+  label: 難產
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 349228
+    - 349405
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 349405
+    - 349538
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 349538
+    - 349940
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 349940
+    - 349940
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2109.h2s1
+    span:
+    - body
+    - 349940
+    - 349943
+  label: 產後病
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 349943
+    - 350018
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 350018
+    - 350175
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 350175
+    - 350631
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2117.h2s1
+    span:
+    - body
+    - 350631
+    - 350634
+  label: 下乳汁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 350634
+    - 350699
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 350699
+    - 350727
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 350727
+    - 351058
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2125.h2s1
+    span:
+    - body
+    - 351058
+    - 351060
+  label: 中蠱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 351060
+    - 351183
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 351183
+    - 351263
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 351263
+    - 352575
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2133.h1s1
+    span:
+    - body
+    - 352575
+    - 352582
+  label: 藥對主療
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2135.h2s1
+    span:
+    - body
+    - 352582
+    - 352584
+  label: 出汗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 352584
+    - 352817
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 352817
+    - 353149
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2141.h2s1
+    span:
+    - body
+    - 353149
+    - 353151
+  label: 止汗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 353151
+    - 353232
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 353232
+    - 353612
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2147.h2s1
+    span:
+    - body
+    - 353612
+    - 353616
+  label: 驚悸心氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 353616
+    - 353753
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 353753
+    - 354456
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2153.h2s1
+    span:
+    - body
+    - 354456
+    - 354458
+  label: 肺痿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 354458
+    - 354581
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 354581
+    - 355384
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2159.h2s1
+    span:
+    - body
+    - 355384
+    - 355386
+  label: 下氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 355386
+    - 355528
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 355528
+    - 355887
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2165.h2s1
+    span:
+    - body
+    - 355887
+    - 355889
+  label: 蝕膿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 355889
+    - 355975
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 355975
+    - 356304
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2171.h2s1
+    span:
+    - body
+    - 356304
+    - 356310
+  label: 女人血閉腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 356310
+    - 356410
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 356410
+    - 356845
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2177.h2s1
+    span:
+    - body
+    - 356845
+    - 356852
+  label: 女人血氣歷腰痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 356852
+    - 356940
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 356940
+    - 357370
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2183.h2s1
+    span:
+    - body
+    - 357370
+    - 357375
+  label: 女人腹堅脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357375
+    - 357425
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357425
+    - 357837
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2189.h2s1
+    span:
+    - body
+    - 357837
+    - 357845
+  label: 解百藥及金石等毒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357845
+    - 357851
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357851
+    - 357855
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357855
+    - 357859
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357859
+    - 357862
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357862
+    - 357865
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357865
+    - 357870
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357870
+    - 357880
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357880
+    - 357885
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357885
+    - 357889
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357889
+    - 357893
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357893
+    - 357897
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357897
+    - 357903
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357903
+    - 357907
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357907
+    - 357911
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357911
+    - 357916
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357916
+    - 357920
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357920
+    - 357924
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357924
+    - 357928
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357928
+    - 357932
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357932
+    - 357936
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357936
+    - 357940
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357940
+    - 357944
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357944
+    - 357952
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357952
+    - 357956
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357956
+    - 357960
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357960
+    - 357964
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357964
+    - 357968
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357968
+    - 357972
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357972
+    - 357976
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357976
+    - 357980
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357980
+    - 357984
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357984
+    - 357988
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357988
+    - 357991
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 357991
+    - 358001
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358001
+    - 358006
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358006
+    - 358012
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358012
+    - 358017
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358017
+    - 358022
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358022
+    - 358030
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358030
+    - 358036
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358036
+    - 358044
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2357.h2s1
+    span:
+    - body
+    - 358044
+    - 358048
+  label: 服藥食忌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec066_jc_000-d2393.h2s1
+    span:
+    - body
+    - 358048
+    - 358055
+  label: 藥不宜入湯酒者
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358055
+    - 358062
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358062
+    - 358070
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358070
+    - 358078
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358078
+    - 358078
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 358078
+    - 358447
+  label: ''
+  type: section
+  level: 1
+hash: sha256:820e528e6d6298168eb092e6de28ac9c554843ac6daec70c8fbfb907be2ec77d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
